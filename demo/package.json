@@ -35,5 +35,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "babel-jest": "^29.7.0",
+    "babel-preset-jest": "^29.6.3",
+    "identity-obj-proxy": "^3.0.0"
   }
 }
